@@ -1,0 +1,15 @@
+Guess the word :
+user will be given certain no. of blanks and hint
+user has to guess the word (user can give only single letter at a time)
+there will be 10 chances to guess the letters
+each time the user guess the wrong letter the no of chances will reduce by 1
+if the user guess a correct letter , then that letter will be filled at that its respective blank 
+if the user couldnt guess the word within the given no. of chance or if the user guess the word correctly then game ends 
+the user can restart the game at any time
+
+work flow:
+word = blue (user doest now )
+blank : ----
+chance : 5
+hint : its color
+
